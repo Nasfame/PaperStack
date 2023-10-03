@@ -14,4 +14,4 @@ Using Paper Stack organizations with large amounts of on-paper open data can pay
 
 ## Flow
 
-<img width="991" alt="Screenshot 2023-09-28 at 4 46 57 PM" src="https://github.com/Abhay-2811/PaperStack/assets/97840499/60ab735e-92ef-46be-83ee-d9c94101d1f8">
+<img width="991" alt="paperstack" src="https://github.com/Nasfame/PaperStack/assets/24226219/edf67090-9c06-487b-9e8b-c7b32d68f461">
